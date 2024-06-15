@@ -1,4 +1,4 @@
-# PNAS_fuzzy
+# Hotspot-constrained helix-coil model (HCHC model)
 Code related to the manuscript "The sequence-ensemble relationship in fuzzy protein complexes"
 
 Fig1_fuzzy_phase_space.py runs the code to repoduce the results from Fig. 1 and plots the phase space of fuzzy compelxes. Different combinnations of IDP paramters can be used.
